@@ -1,4 +1,3 @@
-<<<<<<< HEAD
  # More About Git
  
  ### What is Origin ?
@@ -85,8 +84,4 @@ When downloading content from a remote repo, git pull and git fetch commands are
 -Fetches all registered remotes and their branches
 >
     $git fetch --all
-=======
-# Week 2 Research
->>>>>>> master
 
-- [Regex](./RegEx.md)
