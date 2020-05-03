@@ -83,7 +83,7 @@ XSS differs from other web attack vectors (e.g., SQL injections), in that it doe
 
 **What are the types of XSS attacks?**
 1)Reflected XSS, where the malicious script comes from the current HTTP request. 
-2)Stored XSS, where the malicious script comes from the website's database.()
+2)Stored XSS, where the malicious script comes from the website's database.(when an application receives data from an untrusted source and includes that data within its later HTTP responses in an unsafe way).
 3)DOM-based XSS, where the vulnerability exists in client-side code rather than server-side code. (example)
 
 Here is how a DOM-based XSS attack can be performed for this web application:
