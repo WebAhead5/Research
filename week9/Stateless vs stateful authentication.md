@@ -39,6 +39,7 @@ Token-based authentication enables users to obtain a token that allows them to a
 #### <u>flow diagram:</u>
 ![](https://i.imgur.com/ERF2dSW.png)
 
+-------------------------------
 
 ### Stateful vs  Stateless
   
